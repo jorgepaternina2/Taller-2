@@ -21,6 +21,7 @@ app.config.suppress_callback_exceptions = True
 # Ajuste para Taller 2
 # Cambio en rama jorge-pat
 # Cambio para GitHub
+# Esta linea fue agregada por mi compañero
 
 # Load data from csv
 def load_data():
