@@ -18,7 +18,7 @@ app.title = "Dashboard energia"
 server = app.server
 app.config.suppress_callback_exceptions = True
 
-
+# Ajuste para Taller 2
 # Load data from csv
 def load_data():
     # 1. Cargar el archivo csv
