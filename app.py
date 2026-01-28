@@ -19,6 +19,7 @@ server = app.server
 app.config.suppress_callback_exceptions = True
 
 # Ajuste para Taller 2
+# Cambio en rama jorge-pat
 # Load data from csv
 def load_data():
     # 1. Cargar el archivo csv
